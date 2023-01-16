@@ -92,6 +92,9 @@ const Footer = () => {
               </div>
             </a>
           </div>
+          <div className="text-white opacity-50 text-xs text-center tracking-widest md:mt-16 mb-4 md:mb-0">
+            Developed with ❤️ by @Alongrow
+          </div>
         </div>
       </div>
 
