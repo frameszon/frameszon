@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frameszon/static/css/main.eb7d53bd.css",
-    "main.js": "/frameszon/static/js/main.7e7bacae.js",
+    "main.js": "/frameszon/static/js/main.6d8f5820.js",
     "static/media/wintersale.png": "/frameszon/static/media/wintersale.de3d6d69a4d7cea55d33.png",
     "static/media/aboutus.png": "/frameszon/static/media/aboutus.51f137b0d220d9f81024.png",
     "static/media/location.png": "/frameszon/static/media/location.8687613e16e77a031606.png",
@@ -54,10 +54,10 @@
     "static/media/slick.woff": "/frameszon/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/frameszon/index.html",
     "main.eb7d53bd.css.map": "/frameszon/static/css/main.eb7d53bd.css.map",
-    "main.7e7bacae.js.map": "/frameszon/static/js/main.7e7bacae.js.map"
+    "main.6d8f5820.js.map": "/frameszon/static/js/main.6d8f5820.js.map"
   },
   "entrypoints": [
     "static/css/main.eb7d53bd.css",
-    "static/js/main.7e7bacae.js"
+    "static/js/main.6d8f5820.js"
   ]
 }
